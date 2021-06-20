@@ -11,8 +11,9 @@
 [yarncha 🐽](https://github.com/yarncha)<br/>
 [moregorenine 👽](https://github.com/moregorenine)<br/>
 [kwonyongju 🐧](https://github.com/kwonyongju)<br/>
-[exampleID 😀](https://github.com/yarncha)<br/>
-
+[gunny6026 😎](https://github.com/gunny6026)<br/>
+[exampleID 🐽](https://github.com/yarncha)<br/>
+[exampleID 🐽](https://github.com/yarncha)<br/>
 
 ## 인프런 일지 목록
 
