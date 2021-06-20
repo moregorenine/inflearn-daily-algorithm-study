@@ -43,7 +43,7 @@
 |Problem|Solution|
 |------|---|
 |[46. Permutations](https://leetcode.com/problems/permutations/)|[Java](https://github.com/AlgoJu5/inflearn-daily-algorithm-study/blob/main/week01-210619-210625/kwonyongju/46.%20Permutations/solution.java)|
-|[131. Parindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|[Java](https://github.com/AlgoJu5/inflearn-daily-algorithm-study/blob/main/week01-210619-210625/kwonyongju/131.%20Palindrome%20Partitioning/solution.java)|
+|[131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|[Java](https://github.com/AlgoJu5/inflearn-daily-algorithm-study/blob/main/week01-210619-210625/kwonyongju/131.%20Palindrome%20Partitioning/solution.java)|
 |[1480. Running Sum of 1d Array(example)(will be deleted)](https://leetcode.com/problems/running-sum-of-1d-array/)|[C++🐽](https://github.com/yarncha/baekjoon/blob/master/11727.cpp)|
 
 </div>
