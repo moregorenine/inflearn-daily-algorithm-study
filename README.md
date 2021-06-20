@@ -1,17 +1,10 @@
 
 **AlgoJu5**
-==========
+===========
 
 21.06.18 ~    
-Inflearn 스터디를 통해 모집된 **알고리즘 문제를 주 5회 이상 풀고 인증**하는 스터디
-
-<!-- ## Rules
-
-[]()
-* 주 5일 이상 해당 repository에 commit
-* 언어 제한 X
-* 기존에 같은 문제를 같은 언어로 푼 solution이 있어도 게시 가능
-*  -->
+[Inflearn 스터디를 통해 모집](https://www.inflearn.com/studies/233493)된 **알고리즘 문제를 주 5회 이상 풀고 인증**하는 스터디   
+[Contributing Rules]([CONTRIBUTING.md](https://github.com/AlgoJu5/inflearn-daily-algorithm-study/blob/main/CONTRIBUTING.md))
 
 ## Members
 
@@ -32,10 +25,10 @@ Inflearn 스터디를 통해 모집된 **알고리즘 문제를 주 5회 이상 
 <summary>Baekjoon</summary>
 <div markdown="1">
 
-|Problem|Solution|etc|
-|------|---|---|
-|[1707. 이분 그래프](https://www.acmicpc.net/problem/1707)|[C++🐽](https://github.com/yarncha/baekjoon/blob/master/11727.cpp), [Java🐽](https://github.com/yarncha/baekjoon/blob/master/11727.cpp), [Python🐽](https://github.com/yarncha/baekjoon/blob/master/11727.cpp), [JavaScript🐽](https://github.com/yarncha/baekjoon/blob/master/11727.cpp)|qwer|
-|[1707. 이분 그래프](https://www.acmicpc.net/problem/1707)|[C++🐽](https://github.com/yarncha/baekjoon/blob/master/11727.cpp)|qwer|
+|Problem|Solution|
+|------|---|
+|[1. example](https://www.acmicpc.net/problem/1707)|[C++🐽](https://github.com/AlgoJu5/inflearn-daily-algorithm-study/blob/main/week01-210619-210625/yarncha/1707.cpp), [Java🐽](https://github.com/yarncha/baekjoon/blob/master/11727.cpp), [Python🐽](https://github.com/yarncha/baekjoon/blob/master/11727.cpp), [JavaScript🐽](https://github.com/yarncha/baekjoon/blob/master/11727.cpp)|
+|[1707. 이분 그래프](https://www.acmicpc.net/problem/1707)|[C++🐽](https://github.com/AlgoJu5/inflearn-daily-algorithm-study/blob/main/week01-210619-210625/yarncha/1707.cpp)|
 
 </div>
 </details>
@@ -46,10 +39,9 @@ Inflearn 스터디를 통해 모집된 **알고리즘 문제를 주 5회 이상 
 <summary>LeetCode</summary>
 <div markdown="1">
 
-|Problem|Solution|etc|
-|------|---|---|
-|[1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[C++🐽](https://github.com/yarncha/baekjoon/blob/master/11727.cpp)|qwer|
-|[1707. 이분 그래프](https://www.acmicpc.net/problem/1707)|[C++🐽](https://github.com/yarncha/baekjoon/blob/master/11727.cpp)|qwer|
+|Problem|Solution|
+|------|---|
+|[1480. Running Sum of 1d Array(example)(will be deleted)](https://leetcode.com/problems/running-sum-of-1d-array/)|[C++🐽](https://github.com/yarncha/baekjoon/blob/master/11727.cpp)|
 
 </div>
 </details>
