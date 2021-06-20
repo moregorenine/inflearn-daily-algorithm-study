@@ -4,7 +4,7 @@
 
 21.06.18 ~    
 [Inflearn 스터디를 통해 모집](https://www.inflearn.com/studies/233493)된 **알고리즘 문제를 주 5회 이상 풀고 인증**하는 스터디   
-[Contributing Rules]([CONTRIBUTING.md](https://github.com/AlgoJu5/inflearn-daily-algorithm-study/blob/main/CONTRIBUTING.md))
+[Contributing Rules](https://github.com/AlgoJu5/inflearn-daily-algorithm-study/blob/main/CONTRIBUTING.md)
 
 ## Members
 
