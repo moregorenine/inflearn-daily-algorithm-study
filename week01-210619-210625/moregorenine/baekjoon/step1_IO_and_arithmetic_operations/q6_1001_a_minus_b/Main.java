@@ -1,4 +1,4 @@
-package kr.boj.stages.s1_IO_and_arithmetic_operations.q9_a_arithmetic_operation_b;
+package step1_IO_and_arithmetic_operations.q6_1001_a_minus_b;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -14,10 +14,6 @@ public class Main {
         int number1 = Integer.parseInt(st.nextToken());
         int number2 = Integer.parseInt(st.nextToken());
 
-        System.out.println(number1 + number2);
         System.out.println(number1 - number2);
-        System.out.println(number1 * number2);
-        System.out.println(number1 / number2);
-        System.out.println(number1 % number2);
     }
 }

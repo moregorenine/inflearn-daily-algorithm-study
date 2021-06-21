@@ -1,4 +1,4 @@
-package kr.boj.stages.s1_IO_and_arithmetic_operations.q3_cat;
+package step1_IO_and_arithmetic_operations.q3_10171_cat;
 
 public class Main {
 

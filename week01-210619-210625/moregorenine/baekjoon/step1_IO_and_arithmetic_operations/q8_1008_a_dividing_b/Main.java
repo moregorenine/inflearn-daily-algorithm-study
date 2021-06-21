@@ -1,4 +1,4 @@
-package kr.boj.stages.s1_IO_and_arithmetic_operations.q5_a_plus_b;
+package step1_IO_and_arithmetic_operations.q8_1008_a_dividing_b;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -11,9 +11,9 @@ public class Main {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine());
 
-        int number1 = Integer.parseInt(st.nextToken());
-        int number2 = Integer.parseInt(st.nextToken());
+        double number1 = Double.parseDouble(st.nextToken());
+        double number2 = Double.parseDouble(st.nextToken());
 
-        System.out.println(number1 + number2);
+        System.out.println(number1 / number2);
     }
 }

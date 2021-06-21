@@ -1,4 +1,4 @@
-package kr.boj.stages.s1_IO_and_arithmetic_operations.q11_a_multiply_b;
+package step1_IO_and_arithmetic_operations.q11_2588_a_multiply_b;
 
 import java.io.BufferedReader;
 import java.io.IOException;

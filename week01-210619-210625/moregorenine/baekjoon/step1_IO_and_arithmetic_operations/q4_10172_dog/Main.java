@@ -1,4 +1,4 @@
-package kr.boj.stages.s1_IO_and_arithmetic_operations.q4_dog;
+package step1_IO_and_arithmetic_operations.q4_10172_dog;
 
 public class Main {
 
