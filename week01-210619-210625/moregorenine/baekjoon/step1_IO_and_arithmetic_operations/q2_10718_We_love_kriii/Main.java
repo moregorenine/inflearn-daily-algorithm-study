@@ -1,4 +1,4 @@
-package kr.boj.stages.s1_IO_and_arithmetic_operations.q2_We_love_kriii;
+package step1_IO_and_arithmetic_operations.q2_10718_We_love_kriii;
 
 public class Main {
 
