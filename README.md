@@ -14,12 +14,13 @@
 [gunny6026 😎](https://github.com/gunny6026)<br/>
 [jeehoneykim 🐝](https://github.com/jeehoneykim)<br/>
 [hyelimchoi1223 🐳](https://github.com/hyelimchoi1223)<br/>
-[exampleID 🐽](https://github.com/yarncha)<br/>
+[DevKTak 🏋🏽‍♂️](https://github.com/devktak)<br/>
 
 ## 인프런 일지 목록
 
 1. [[알고주오] [210619] 알고리즘 주 5회 이상 풀고 인증하는 스터디 오늘의 일지!](https://www.inflearn.com/blogs/576)
-2. []()
+2. [[알고주오] [210620] 알고리즘 주 5회 이상 풀고 인증하는 스터디 오늘의 일지!](https://www.inflearn.com/blogs/603)
+3. []()
 
 ## Solutions
 
@@ -29,8 +30,8 @@
 
 |Problem|Solution|
 |------|---|
-|[1. example](https://www.acmicpc.net/problem/1707)|[C++🐽](https://github.com/AlgoJu5/inflearn-daily-algorithm-study/blob/main/week01-210619-210625/yarncha/1707.cpp), [Java🐽](https://github.com/yarncha/baekjoon/blob/master/11727.cpp), [Python🐽](https://github.com/yarncha/baekjoon/blob/master/11727.cpp), [JavaScript🐽](https://github.com/yarncha/baekjoon/blob/master/11727.cpp)|
 |[1707. 이분 그래프](https://www.acmicpc.net/problem/1707)|[C++🐽](https://github.com/AlgoJu5/inflearn-daily-algorithm-study/blob/main/week01-210619-210625/yarncha/1707.cpp)|
+|[9093. 단어 뒤집기](https://www.acmicpc.net/problem/9093)|[Java😎](https://github.com/AlgoJu5/inflearn-daily-algorithm-study/blob/main/week01-210619-210625/gunny6026/src/baekjoon/Main_9093.java)|
 
 </div>
 </details>
@@ -43,9 +44,32 @@
 
 |Problem|Solution|
 |------|---|
-|[46. Permutations](https://leetcode.com/problems/permutations/)|[Java](https://github.com/AlgoJu5/inflearn-daily-algorithm-study/blob/main/week01-210619-210625/kwonyongju/46.%20Permutations/solution.java)|
-|[131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|[Java](https://github.com/AlgoJu5/inflearn-daily-algorithm-study/blob/main/week01-210619-210625/kwonyongju/131.%20Palindrome%20Partitioning/solution.java)|
-|[1480. Running Sum of 1d Array(example)(will be deleted)](https://leetcode.com/problems/running-sum-of-1d-array/)|[C++🐽](https://github.com/yarncha/baekjoon/blob/master/11727.cpp)|
+|[46. Permutations](https://leetcode.com/problems/permutations/)|[Java🐧](https://github.com/AlgoJu5/inflearn-daily-algorithm-study/blob/main/week01-210619-210625/kwonyongju/46.%20Permutations/solution.java)|
+|[131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|[Java🐧](https://github.com/AlgoJu5/inflearn-daily-algorithm-study/blob/main/week01-210619-210625/kwonyongju/131.%20Palindrome%20Partitioning/solution.java)|
+
+</div>
+</details>
+
+<br/>
+
+<details open>
+<summary>Misc</summary>
+<div markdown="1">
+
+|Problem|Solution|
+|------|---|
+|Knapsack 0/1|[Python🐝](https://github.com/jeehoneykim/piranesi-in-grinding-interviews/blob/master/statues/a-merchant-with-the-knapsack.md)|
+
+</div>
+</details>
+
+<details open>
+<summary>Programmers</summary>
+<div markdown="1">
+
+|Problem|Solution|
+|------|---|
+|[폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845)|[Java😎](https://github.com/AlgoJu5/inflearn-daily-algorithm-study/blob/main/week01-210619-210625/gunny6026/src/programmers/%ED%8F%B0%EC%BC%93%EB%AA%AC.java)|
 
 </div>
 </details>
