@@ -1,4 +1,4 @@
-package kr.boj.stages.s1_IO_and_arithmetic_operations.q1_Hello_World;
+package step1_IO_and_arithmetic_operations.q1_2557_Hello_World;
 
 public class Main {
 

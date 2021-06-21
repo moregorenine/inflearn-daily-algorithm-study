@@ -1,4 +1,4 @@
-package kr.boj.stages.s1_IO_and_arithmetic_operations.q8_a_dividing_b;
+package step2_if.q1_1330_compare;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -11,9 +11,16 @@ public class Main {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine());
 
-        double number1 = Double.parseDouble(st.nextToken());
-        double number2 = Double.parseDouble(st.nextToken());
+        int number1 = Integer.parseInt(st.nextToken());
+        int number2 = Integer.parseInt(st.nextToken());
 
-        System.out.println(number1 / number2);
+        if (number1 > number2) {
+            System.out.println(">");
+        } else if (number1 < number2) {
+            System.out.println("<");
+        } else {
+            System.out.println("==");
+        }
+
     }
 }

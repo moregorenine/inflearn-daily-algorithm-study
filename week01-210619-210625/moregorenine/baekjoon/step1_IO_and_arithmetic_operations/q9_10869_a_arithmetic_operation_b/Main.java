@@ -1,4 +1,4 @@
-package kr.boj.stages.s2_if.q1_compare;
+package step1_IO_and_arithmetic_operations.q9_10869_a_arithmetic_operation_b;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -14,13 +14,10 @@ public class Main {
         int number1 = Integer.parseInt(st.nextToken());
         int number2 = Integer.parseInt(st.nextToken());
 
-        if (number1 > number2) {
-            System.out.println(">");
-        } else if (number1 < number2) {
-            System.out.println("<");
-        } else {
-            System.out.println("==");
-        }
-
+        System.out.println(number1 + number2);
+        System.out.println(number1 - number2);
+        System.out.println(number1 * number2);
+        System.out.println(number1 / number2);
+        System.out.println(number1 % number2);
     }
 }

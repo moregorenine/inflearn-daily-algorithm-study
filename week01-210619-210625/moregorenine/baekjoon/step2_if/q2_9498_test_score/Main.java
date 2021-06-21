@@ -1,4 +1,4 @@
-package kr.boj.stages.s2_if.q2_test_score;
+package step2_if.q2_9498_test_score;
 
 import java.io.BufferedReader;
 import java.io.IOException;
