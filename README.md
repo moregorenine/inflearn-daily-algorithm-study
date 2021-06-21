@@ -13,12 +13,15 @@
 [kwonyongju 🐧](https://github.com/kwonyongju)<br/>
 [gunny6026 😎](https://github.com/gunny6026)<br/>
 [jeehoneykim 🐝](https://github.com/jeehoneykim)<br/>
-[exampleID 🐽](https://github.com/yarncha)<br/>
+[hyelimchoi1223 🐳](https://github.com/hyelimchoi1223)<br/>
+[DevKTak 🏋🏽‍♂️](https://github.com/devktak)<br/>
 
 ## 인프런 일지 목록
 
 1. [[알고주오] [210619] 알고리즘 주 5회 이상 풀고 인증하는 스터디 오늘의 일지!](https://www.inflearn.com/blogs/576)
-2. []()
+2. [[알고주오] [210620] 알고리즘 주 5회 이상 풀고 인증하는 스터디 오늘의 일지!](https://www.inflearn.com/blogs/603)
+3. [[알고주오] [210621] 알고리즘 주 5회 이상 풀고 인증하는 스터디 오늘의 일지!](https://www.inflearn.com/blogs/606)
+4. 
 
 ## Solutions
 
@@ -28,8 +31,11 @@
 
 |Problem|Solution|
 |------|---|
-|[1. example](https://www.acmicpc.net/problem/1707)|[C++🐽](https://github.com/AlgoJu5/inflearn-daily-algorithm-study/blob/main/week01-210619-210625/yarncha/1707.cpp), [Java🐽](https://github.com/yarncha/baekjoon/blob/master/11727.cpp), [Python🐽](https://github.com/yarncha/baekjoon/blob/master/11727.cpp), [JavaScript🐽](https://github.com/yarncha/baekjoon/blob/master/11727.cpp)|
-|[1707. 이분 그래프](https://www.acmicpc.net/problem/1707)|[C++🐽](https://github.com/AlgoJu5/inflearn-daily-algorithm-study/blob/main/week01-210619-210625/yarncha/1707.cpp)|
+|[1330. 두 수 비교하기](https://www.acmicpc.net/problem/1330)|[Java👽](https://github.com/AlgoJu5/inflearn-daily-algorithm-study/blob/main/week01-210619-210625/moregorenine/baekjoon/step2_if/q1_1330_compare/Main.java), [JavaScript👽](https://github.com/AlgoJu5/inflearn-daily-algorithm-study/blob/main/week01-210619-210625/moregorenine/baekjoon/step2_if/q1_1330_compare/main.js), [Python👽](https://github.com/AlgoJu5/inflearn-daily-algorithm-study/blob/main/week01-210619-210625/moregorenine/baekjoon/step2_if/q1_1330_compare/main.py)|
+|[1707. 이분 그래프](https://www.acmicpc.net/problem/1707)|[C++🐽](https://github.com/AlgoJu5/inflearn-daily-algorithm-study/blob/main/week01-210619-210625/yarncha/baekjoon/1707.cpp)|
+|[9093. 단어 뒤집기](https://www.acmicpc.net/problem/9093)|[Java😎](https://github.com/AlgoJu5/inflearn-daily-algorithm-study/blob/main/week01-210619-210625/gunny6026/src/baekjoon/Main_9093.java)|
+|[9498. 시험 성적](https://www.acmicpc.net/problem/9498)|[Java👽](https://github.com/AlgoJu5/inflearn-daily-algorithm-study/blob/main/week01-210619-210625/moregorenine/baekjoon/step2_if/q2_9498_test_score/Main.java), [JavaScript👽](https://github.com/AlgoJu5/inflearn-daily-algorithm-study/blob/main/week01-210619-210625/moregorenine/baekjoon/step2_if/q2_9498_test_score/main.js), [Python👽](https://github.com/AlgoJu5/inflearn-daily-algorithm-study/blob/main/week01-210619-210625/moregorenine/baekjoon/step2_if/q2_9498_test_score/main.py)|
+|[11047. 동전 0](https://www.acmicpc.net/problem/11047)|[Python🐳](https://github.com/AlgoJu5/inflearn-daily-algorithm-study/blob/main/week01-210619-210625/hyelimchoi1223/%5B%EB%B0%B1%EC%A4%80%5D11047/solved.py)|
 
 </div>
 </details>
@@ -42,9 +48,9 @@
 
 |Problem|Solution|
 |------|---|
-|[46. Permutations](https://leetcode.com/problems/permutations/)|[Java](https://github.com/AlgoJu5/inflearn-daily-algorithm-study/blob/main/week01-210619-210625/kwonyongju/46.%20Permutations/solution.java)|
-|[131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|[Java](https://github.com/AlgoJu5/inflearn-daily-algorithm-study/blob/main/week01-210619-210625/kwonyongju/131.%20Palindrome%20Partitioning/solution.java)|
-|[1480. Running Sum of 1d Array(example)(will be deleted)](https://leetcode.com/problems/running-sum-of-1d-array/)|[C++🐽](https://github.com/yarncha/baekjoon/blob/master/11727.cpp)|
+|[46. Permutations](https://leetcode.com/problems/permutations/)|[Java🐧](https://github.com/AlgoJu5/inflearn-daily-algorithm-study/blob/main/week01-210619-210625/kwonyongju/46.%20Permutations/solution.java)|
+|[131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|[Java🐧](https://github.com/AlgoJu5/inflearn-daily-algorithm-study/blob/main/week01-210619-210625/kwonyongju/131.%20Palindrome%20Partitioning/solution.java)|
+|[844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[C++🐽](https://github.com/AlgoJu5/inflearn-daily-algorithm-study/blob/main/week01-210619-210625/yarncha/leetcode/844.cpp)|
 
 </div>
 </details>
@@ -59,5 +65,21 @@
 |------|---|
 |Knapsack 0/1|[Python](https://github.com/jeehoneykim/piranesi-in-grinding-interviews/blob/master/statues/a-merchant-with-the-knapsack.md)|
 |Topological sort|[Python🐝](https://github.com/jeehoneykim/piranesi-in-grinding-interviews/blob/master/statues/an-alchemist-with-pots.md)|
+  
 </div>
 </details>
+
+<br/>
+
+<details open>
+<summary>Programmers</summary>
+<div markdown="1">
+
+|Problem|Solution|
+|------|---|
+|[폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845)|[Java😎](https://github.com/AlgoJu5/inflearn-daily-algorithm-study/blob/main/week01-210619-210625/gunny6026/src/programmers/%ED%8F%B0%EC%BC%93%EB%AA%AC.java)|
+
+</div>
+</details>
+
+<br/>
