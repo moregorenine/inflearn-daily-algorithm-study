@@ -15,6 +15,7 @@
 [jeehoneykim 🐝](https://github.com/jeehoneykim)<br/>
 [hyelimchoi1223 🐳](https://github.com/hyelimchoi1223)<br/>
 [DevKTak 🏋🏽‍♂️](https://github.com/devktak)<br/>
+[pkpete 😀](https://github.com/pkpete)<br/>
 
 ## 인프런 일지 목록
 
