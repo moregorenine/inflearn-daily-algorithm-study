@@ -39,6 +39,7 @@
 |[2753. 윤년](https://www.acmicpc.net/problem/2753)|[Java👽](./week01-210619-210625/moregorenine/baekjoon/step2_if/q3_2753_leap_year/Main.java), [JavaScript👽](./week01-210619-210625/moregorenine/baekjoon/step2_if/q3_2753_leap_year/main.js), [Python👽](./week01-210619-210625/moregorenine/baekjoon/step2_if/q3_2753_leap_year/main.py)|
 |[2941. 크로아티아 알파벳](https://www.acmicpc.net/problem/2941)|[Java😎](./week01-210619-210625/gunny6026/src/baekjoon/크로아티아_알파벳_2941.java)|
 |[5585. 거스름돈](https://www.acmicpc.net/problem/5585)|[Python🐳](./week01-210619-210625/hyelimchoi1223/%5B%EB%B0%B1%EC%A4%80%5D5585/solved.py)|
+|[7576. 토마토](https://www.acmicpc.net/problem/7576)|[C++🐽](./week01-210619-210625/yarncha/baekjoon/7576.cpp)|
 |[9093. 단어 뒤집기](https://www.acmicpc.net/problem/9093)|[Java😎](./week01-210619-210625/gunny6026/src/baekjoon/Main_9093.java)|
 |[9498. 시험 성적](https://www.acmicpc.net/problem/9498)|[Java👽](./week01-210619-210625/moregorenine/baekjoon/step2_if/q2_9498_test_score/Main.java), [JavaScript👽](./week01-210619-210625/moregorenine/baekjoon/step2_if/q2_9498_test_score/main.js), [Python👽](./week01-210619-210625/moregorenine/baekjoon/step2_if/q2_9498_test_score/main.py)|
 |[10162. 전자레인지](https://www.acmicpc.net/problem/10162)|[Python🐳](./week01-210619-210625/hyelimchoi1223/%5B백준%5D10162/solved.py)
@@ -94,8 +95,9 @@
 
 |Problem|Solution|
 |------|---|
-|[폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845)|[Java😎](./week01-210619-210625/gunny6026/src/programmers/%ED%8F%B0%EC%BC%93%EB%AA%AC.java)|
-|[예산](https://programmers.co.kr/learn/courses/30/lessons/12982)|[Java😎](./week01-210619-210625/gunny6026/src/programmers/예산.java)|
+|[1845. 폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845)|[Java😎](./week01-210619-210625/gunny6026/src/programmers/%ED%8F%B0%EC%BC%93%EB%AA%AC.java)|
+|[12982. 예산](https://programmers.co.kr/learn/courses/30/lessons/12982)|[Java😎](./week01-210619-210625/gunny6026/src/programmers/예산.java)|
+|[42576. 완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)|[Java👽](./week01-210619-210625/moregorenine/programmers/hash/player/Solution.java)|
 
 </div>
 </details>
