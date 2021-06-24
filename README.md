@@ -38,6 +38,7 @@
 |[2667. 단지번호붙이기](https://www.acmicpc.net/problem/2667)|[C++🐽](./week01-210619-210625/yarncha/baekjoon/2667.cpp), [C++😀](./week01-210619-210625/pkpete/2667.cpp)|
 |[2753. 윤년](https://www.acmicpc.net/problem/2753)|[Java👽](./week01-210619-210625/moregorenine/baekjoon/step2_if/q3_2753_leap_year/Main.java), [JavaScript👽](./week01-210619-210625/moregorenine/baekjoon/step2_if/q3_2753_leap_year/main.js), [Python👽](./week01-210619-210625/moregorenine/baekjoon/step2_if/q3_2753_leap_year/main.py)|
 |[5585. 거스름돈](https://www.acmicpc.net/problem/5585)|[Python🐳](./week01-210619-210625/hyelimchoi1223/%5B%EB%B0%B1%EC%A4%80%5D5585/solved.py)|
+|[7576. 토마토](https://www.acmicpc.net/problem/7576)|[C++🐽](./week01-210619-210625/yarncha/baekjoon/7576.cpp)|
 |[9093. 단어 뒤집기](https://www.acmicpc.net/problem/9093)|[Java😎](./week01-210619-210625/gunny6026/src/baekjoon/Main_9093.java)|
 |[9498. 시험 성적](https://www.acmicpc.net/problem/9498)|[Java👽](./week01-210619-210625/moregorenine/baekjoon/step2_if/q2_9498_test_score/Main.java), [JavaScript👽](./week01-210619-210625/moregorenine/baekjoon/step2_if/q2_9498_test_score/main.js), [Python👽](./week01-210619-210625/moregorenine/baekjoon/step2_if/q2_9498_test_score/main.py)|
 |[10430. 나머지](https://www.acmicpc.net/problem/10430)|[Java🏋🏽‍♂️](./week01-210619-210625/kyungtak/%5B%EB%B0%B1%EC%A4%80%5D%20%EB%8B%A8%EA%B3%84%EB%B3%84%EB%A1%9C%20%ED%92%80%EC%96%B4%EB%B3%B4%EA%B8%B0/Level%201/bj_10430.java)
