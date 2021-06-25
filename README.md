@@ -36,6 +36,7 @@
 |[1707. 이분 그래프](https://www.acmicpc.net/problem/1707)|[C++🐽](./week01-210619-210625/yarncha/baekjoon/1707.cpp)|
 |[2588. 곱셈](https://www.acmicpc.net/problem/2588)|[Java🏋🏽‍♂️](./week01-210619-210625/kyungtak/%5B%EB%B0%B1%EC%A4%80%5D%20%EB%8B%A8%EA%B3%84%EB%B3%84%EB%A1%9C%20%ED%92%80%EC%96%B4%EB%B3%B4%EA%B8%B0/Level%201/bj_02588.java)|
 |[2667. 단지번호붙이기](https://www.acmicpc.net/problem/2667)|[C++🐽](./week01-210619-210625/yarncha/baekjoon/2667.cpp), [C++😀](./week01-210619-210625/pkpete/2667.cpp)|
+|[2720. 세탁소 사장 동혁](https://www.acmicpc.net/problem/2720)|[Python🐳](./week01-210619-210625/hyelimchoi1223/%5B백준%5D2720/solved.py)|
 |[2753. 윤년](https://www.acmicpc.net/problem/2753)|[Java👽](./week01-210619-210625/moregorenine/baekjoon/step2_if/q3_2753_leap_year/Main.java), [JavaScript👽](./week01-210619-210625/moregorenine/baekjoon/step2_if/q3_2753_leap_year/main.js), [Python👽](./week01-210619-210625/moregorenine/baekjoon/step2_if/q3_2753_leap_year/main.py)|
 |[2941. 크로아티아 알파벳](https://www.acmicpc.net/problem/2941)|[Java😎](./week01-210619-210625/gunny6026/src/baekjoon/크로아티아_알파벳_2941.java)|
 |[5585. 거스름돈](https://www.acmicpc.net/problem/5585)|[Python🐳](./week01-210619-210625/hyelimchoi1223/%5B%EB%B0%B1%EC%A4%80%5D5585/solved.py)|
@@ -53,7 +54,7 @@
 |[14681. 사분면 고르기](https://www.acmicpc.net/problem/14681)|[Java👽](./week01-210619-210625/moregorenine/baekjoon/step2_if/q4_14681_quadrant_n/Main.java), [JavaScript👽](./week01-210619-210625/moregorenine/baekjoon/step2_if/q4_14681_quadrant_n/main.js), [Python👽](./week01-210619-210625/moregorenine/baekjoon/step2_if/q4_14681_quadrant_n/main.py)|
 |[15953. 상금 헌터](https://www.acmicpc.net/problem/15953)|[Java😎](./week01-210619-210625/gunny6026/src/baekjoon/%EC%83%81%EA%B8%88_%ED%97%8C%ED%84%B0_15953.java)|
 |[17298. 오큰수](https://www.acmicpc.net/problem/17298)|[Java😎](./week01-210619-210625/gunny6026/src/baekjoon/Main_17298.java)|
-  
+
 </div>
 </details>
 
