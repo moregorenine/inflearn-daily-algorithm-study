@@ -15,6 +15,7 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
+META-INF
 
 ### NetBeans ###
 /nbproject/private/
