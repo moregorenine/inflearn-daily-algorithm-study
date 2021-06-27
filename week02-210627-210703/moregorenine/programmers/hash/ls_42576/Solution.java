@@ -1,4 +1,4 @@
-package programmers.hash.player;
+package programmers.hash.ls_42576;
 
 import org.junit.Assert;
 import org.junit.Test;
