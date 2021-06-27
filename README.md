@@ -92,7 +92,7 @@
 |------|---|
 |Knapsack 0/1|[Python🐝](https://github.com/jeehoneykim/piranesi-in-grinding-interviews/blob/master/statues/a-merchant-with-the-knapsack.md)|
 |Topological sort|[Python🐝](https://github.com/jeehoneykim/piranesi-in-grinding-interviews/blob/master/statues/an-alchemist-with-pots.md)|
-  
+|Tasks Scheduling|[Python🐝](https://github.com/jeehoneykim/piranesi-in-grinding-interviews/blob/master/statues/me-with-scheduler.md)|  
 </div>
 </details>
 
