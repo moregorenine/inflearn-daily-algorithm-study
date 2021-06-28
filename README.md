@@ -57,6 +57,7 @@
 |[11399. ATM](https://www.acmicpc.net/problem/11399)|[Python🐳](./week01-210619-210625/hyelimchoi1223/%5B%EB%B0%B1%EC%A4%80%5D11399/solved.py), [C++😀](./week01-210619-210625/pkpete/11047.cpp)|
 |[14681. 사분면 고르기](https://www.acmicpc.net/problem/14681)|[Java👽](./week01-210619-210625/moregorenine/baekjoon/step2_if/q4_14681_quadrant_n/Main.java), [JavaScript👽](./week01-210619-210625/moregorenine/baekjoon/step2_if/q4_14681_quadrant_n/main.js), [Python👽](./week01-210619-210625/moregorenine/baekjoon/step2_if/q4_14681_quadrant_n/main.py), [Java🏋🏽‍♂️](./week01-210619-210625/kyungtak/%5B백준%5D%20단계별로%20풀어보기/Level%202/bj_14681.java)|
 |[15953. 상금 헌터](https://www.acmicpc.net/problem/15953)|[Java😎](./week01-210619-210625/gunny6026/src/baekjoon/%EC%83%81%EA%B8%88_%ED%97%8C%ED%84%B0_15953.java)|
+|[16940. BFS 스페셜 저지](https://www.acmicpc.net/problem/16940)|[C++🐽](./week02-210627-210703/yarncha/baekjoon/16940.cpp)|
 |[16947. 서울 지하철 2호선](https://www.acmicpc.net/problem/16947)|[C++🐽](./week01-210619-210625/yarncha/baekjoon/16947.cpp)|
 |[17298. 오큰수](https://www.acmicpc.net/problem/17298)|[Java😎](./week01-210619-210625/gunny6026/src/baekjoon/Main_17298.java)|
 
