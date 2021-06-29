@@ -37,6 +37,7 @@
 |[1707. 이분 그래프](https://www.acmicpc.net/problem/1707)|[C++🐽](./week01-210619-210625/yarncha/baekjoon/1707.cpp)|
 |[1929. 소수 구하기](https://www.acmicpc.net/problem/1929)|[Java😎](./week02-210627-210703/gunny6026/baekjoon/%EC%86%8C%EC%88%98%EA%B5%AC%ED%95%98%EA%B8%B0_1929.java)|
 |[1991. 트리 순회](https://www.acmicpc.net/problem/1991)|[Java😎](./week02-210627-210703/gunny6026/baekjoon/트리순회_1991.java)|
+|[2146. 다리 만들기](https://www.acmicpc.net/problem/2146)|[C++🐽](./week02-210627-210703/yarncha/baekjoon/2146.cpp)|
 |[2588. 곱셈](https://www.acmicpc.net/problem/2588)|[Java🏋🏽‍♂️](./week01-210619-210625/kyungtak/%5B%EB%B0%B1%EC%A4%80%5D%20%EB%8B%A8%EA%B3%84%EB%B3%84%EB%A1%9C%20%ED%92%80%EC%96%B4%EB%B3%B4%EA%B8%B0/Level%201/bj_02588.java)|
 |[2667. 단지번호붙이기](https://www.acmicpc.net/problem/2667)|[C++🐽](./week01-210619-210625/yarncha/baekjoon/2667.cpp), [C++😀](./week01-210619-210625/pkpete/2667.cpp)|
 |[2720. 세탁소 사장 동혁](https://www.acmicpc.net/problem/2720)|[Python🐳](./week01-210619-210625/hyelimchoi1223/%5B백준%5D2720/solved.py)|
