@@ -88,6 +88,7 @@
 |[75. Sort Colors](https://leetcode.com/problems/sort-colors/)|[Java🐧](./week01-210619-210625/kwonyongju/75.%20Sort%20Colors/solution.java)|
 |[118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[C++🐽](./week02-210627-210703/yarncha/leetcode/118.cpp)|
 |[131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|[Java🐧](./week01-210619-210625/kwonyongju/131.%20Palindrome%20Partitioning/solution.java)|
+|[146. LRU Cache](https://leetcode.com/problems/lru-cache/)|[Java🐧](./week02-210627-210703/kwonyongju/146.%20LRU%20Cache/Solution.java)|
 |[395. Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)|[Java🐧](./week02-210627-210703/kwonyongju/395.%20Longest%20Substring%20with%20At%20Least%20K%20Repeating%20Characters/Solution.java)|
 |[509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[C++🐽](./week02-210627-210703/yarncha/leetcode/509.cpp)|
 |[792. Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/)|[Java🐧](./week01-210619-210625/kwonyongju/792.%20Number%20of%20Matchig%20Subsequences/solution.java)|
