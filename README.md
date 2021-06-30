@@ -52,7 +52,7 @@
 |[6588. 골드바흐의 추측](https://www.acmicpc.net/problem/6588)|[Java😎](./week02-210627-210703/gunny6026/baekjoon/%EA%B3%A8%EB%93%9C%EB%B0%94%ED%9D%90%EC%9D%98%EC%B6%94%EC%B8%A1_6588.java)|
 |[7562. 나이트의 이동](https://www.acmicpc.net/problem/7562)|[C++🐽](./week01-210619-210625/yarncha/baekjoon/7562.cpp)|
 |[7576. 토마토](https://www.acmicpc.net/problem/7576)|[C++🐽](./week01-210619-210625/yarncha/baekjoon/7576.cpp)|
-|[8393. 합](https://www.acmicpc.net/problem/8393)|[Java🏋🏽‍♂️](./week01-210619-210625/kyungtak/%5B백준%5D%20단계별로%20풀어보기/Level%203/bj_08393.java)|
+|[8393. 합](https://www.acmicpc.net/problem/8393)|[Java🏋🏽‍♂️](./week01-210619-210625/kyungtak/%5B백준%5D%20단계별로%20풀어보기/Level%203/bj_08393.java), [Java👽](./week02-210627-210703/moregorenine/baekjoon/step3_for/q3_8393/Main.java), [JavaScript👽](./week02-210627-210703/moregorenine/baekjoon/step3_for/q3_8393/main.js), [Python👽](./week02-210627-210703/moregorenine/baekjoon/step3_for/q3_8393/main.py)|
 |[9093. 단어 뒤집기](https://www.acmicpc.net/problem/9093)|[Java😎](./week01-210619-210625/gunny6026/src/baekjoon/Main_9093.java)|
 |[9498. 시험 성적](https://www.acmicpc.net/problem/9498)|[Java👽](./week01-210619-210625/moregorenine/baekjoon/step2_if/q2_9498_test_score/Main.java), [JavaScript👽](./week01-210619-210625/moregorenine/baekjoon/step2_if/q2_9498_test_score/main.js), [Python👽](./week01-210619-210625/moregorenine/baekjoon/step2_if/q2_9498_test_score/main.py)|
 |[10162. 전자레인지](https://www.acmicpc.net/problem/10162)|[Python🐳](./week01-210619-210625/hyelimchoi1223/%5B백준%5D10162/solved.py)
