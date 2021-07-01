@@ -36,6 +36,7 @@
 |[1021. 회전하는 큐](https://www.acmicpc.net/problem/1021)|[Java😎](./week02-210627-210703/gunny6026/baekjoon/%ED%9A%8C%EC%A0%84%ED%95%98%EB%8A%94%ED%81%90_1021.java)|
 |[1316. 그룹 단어 체커](https://www.acmicpc.net/problem/1316)|[Java😎](./week01-210619-210625/gunny6026/src/baekjoon/그룹단어체커_1316.java)|
 |[1330. 두 수 비교하기](https://www.acmicpc.net/problem/1330)|[Java👽](./week01-210619-210625/moregorenine/baekjoon/step2_if/q1_1330_compare/Main.java), [JavaScript👽](./week01-210619-210625/moregorenine/baekjoon/step2_if/q1_1330_compare/main.js), [Python👽](./week01-210619-210625/moregorenine/baekjoon/step2_if/q1_1330_compare/main.py), [C++😀](./week01-210619-210625/pkpete/1330.cpp)|
+|[1697. 숨바꼭질](https://www.acmicpc.net/problem/1697)|[C++🐽](./week02-210627-210703/yarncha/baekjoon/1697.cpp)|
 |[1707. 이분 그래프](https://www.acmicpc.net/problem/1707)|[C++🐽](./week01-210619-210625/yarncha/baekjoon/1707.cpp)|
 |[1744. 수 묶기](https://www.acmicpc.net/problem/1744)|[Python🐳](./week02-210627-210703/hyelimchoi1223/%5B%EB%B0%B1%EC%A4%80%5D1744/solved.py)|
 |[1929. 소수 구하기](https://www.acmicpc.net/problem/1929)|[Java😎](./week02-210627-210703/gunny6026/baekjoon/%EC%86%8C%EC%88%98%EA%B5%AC%ED%95%98%EA%B8%B0_1929.java)|
