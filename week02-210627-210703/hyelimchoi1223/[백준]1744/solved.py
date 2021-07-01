@@ -1,3 +1,13 @@
+def add_two_elements(iterator):
+    result = 0
+    for i in range(0, len(iterator), 2):
+        if i+1 == len(iterator):
+            result += iterator[i]
+        else:
+            result += (iterator[i]*iterator[i+1])
+    return result
+
+
 N = int(input())
 numbers = []
 for i in range(N):
@@ -5,20 +15,11 @@ for i in range(N):
 
 minus = [x for x in numbers if 0 >= x]
 minus.sort()
-little = [x for x in numbers if 0 < x and x < 2]
+little = [x for x in numbers if x == 1]
 large = [x for x in numbers if x >= 2]
 large.sort(reverse=True)
 
 result = sum(little)
-for i in range(0, len(large), 2):
-    if i+1 == len(large):
-        result += large[i]
-    else:
-        result += (large[i]*large[i+1])
-
-for i in range(0, len(minus), 2):
-    if i+1 == len(minus):
-        result += minus[i]
-    else:
-        result += (minus[i]*minus[i+1])
+result += add_two_elements(large)
+result += add_two_elements(minus)
 print(result)
