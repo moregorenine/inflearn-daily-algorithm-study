@@ -1,3 +1,7 @@
+import java.util.*;
+
+
+// Graph
 class Solution {
   public boolean canFinish(int numCourses, int[][] prerequisites) {        
       Map<Integer, List<Integer>> map = new HashMap<>();
@@ -25,6 +29,7 @@ class Solution {
       // return helper(map, set, 0);
   }
   
+  // DFS
   private boolean helper(Map<Integer, List<Integer>> map, 
                         Set<Integer> set, int course) {
       if (set.contains(course)) return false;
