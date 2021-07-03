@@ -136,6 +136,7 @@
 |------|---|
 |[1845. 폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845)|[Java😎](./week01-210619-210625/gunny6026/src/programmers/%ED%8F%B0%EC%BC%93%EB%AA%AC.java)|
 |[12982. 예산](https://programmers.co.kr/learn/courses/30/lessons/12982)|[Java😎](./week01-210619-210625/gunny6026/src/programmers/예산.java)|
+|[12977. 소수만들기](https://programmers.co.kr/learn/courses/30/lessons/12977)|[Java😎](./week02-210627-210703/gunny6026/ps/programmers/소수만들기.java)|
 |[42576. 완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)|[Java👽](./week01-210619-210625/moregorenine/programmers/hash/player/Solution.java), [JavaScript👽](./week02-210627-210703/moregorenine/programmers/hash/ls_42576/solution.js)|
 
 </div>
