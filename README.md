@@ -143,6 +143,15 @@
 |[42576. 완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)|[Java👽](./week01-210619-210625/moregorenine/programmers/hash/player/Solution.java), [JavaScript👽](./week02-210627-210703/moregorenine/programmers/hash/ls_42576/solution.js)|
 |[42577. 전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)|[Java👽](./week03-210704-210710/moregorenine/programmers/hash/ls_42577/Solution.java), [JavaScript👽](./week03-210704-210710/moregorenine/programmers/hash/ls_42577/solution.py)|
 
+
+<details open>
+<summary>Pramp</summary>
+<div markdown="1">
+
+|Problem|Solution|
+|------|---|
+|[Award Budget Cut](https://codereview.stackexchange.com/questions/194272/award-budget-cuts-implementation-in-java)|[Java🐧](./week03-210704-210710/kwonyongju/pramp/Award%20Budget%20Cut/Solution.java)|
+
 </div>
 </details>
 
