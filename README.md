@@ -65,6 +65,7 @@
 |[10430. 나머지](https://www.acmicpc.net/problem/10430)|[Java🏋🏽‍♂️](./week01-210619-210625/kyungtak/%5B%EB%B0%B1%EC%A4%80%5D%20%EB%8B%A8%EA%B3%84%EB%B3%84%EB%A1%9C%20%ED%92%80%EC%96%B4%EB%B3%B4%EA%B8%B0/Level%201/bj_10430.java)
 |[10718. We love kriii](https://www.acmicpc.net/problem/10718)|[Java🏋🏽‍♂️](./week01-210619-210625/kyungtak/%5B%EB%B0%B1%EC%A4%80%5D%20%EB%8B%A8%EA%B3%84%EB%B3%84%EB%A1%9C%20%ED%92%80%EC%96%B4%EB%B3%B4%EA%B8%B0/Level%201/bj_10718.java)
 |[10773. 제로](https://www.acmicpc.net/problem/10773)|[Java😎](./week01-210619-210625/gunny6026/src/baekjoon/Main_10773.java)
+|[10818. 최소, 최대](https://www.acmicpc.net/problem/10818)|[Java👽](./week03-210704-210710/moregorenine/baekjoon/step5_array/q1_10818/Main.java)|
 |[10845. 큐](https://www.acmicpc.net/problem/10845)|[Java😎](./week02-210627-210703/gunny6026/baekjoon/큐_10845.java)
 |[10950. A+B - 3](https://www.acmicpc.net/problem/10950)|[Java👽](./week02-210627-210703/moregorenine/baekjoon/step3_for/q2_10950/Main.java), [JavaScript👽](./week02-210627-210703/moregorenine/baekjoon/step3_for/q2_10950/main.js), [Python👽](./week02-210627-210703/moregorenine/baekjoon/step3_for/q2_10950/main.py)|
 |[11047. 동전 0](https://www.acmicpc.net/problem/11047)|[Python🐳](./week01-210619-210625/hyelimchoi1223/%5B%EB%B0%B1%EC%A4%80%5D11047/solved.py), [C++😀](./week01-210619-210625/pkpete/11047.cpp)|
