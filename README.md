@@ -1,12 +1,12 @@
 
-**AlgoJu5**
+1. **AlgoJu5**
 ===========
 
 21.06.18 ~    
 [Inflearn 스터디를 통해 모집](https://www.inflearn.com/studies/233493)된 **알고리즘 문제를 주 5회 이상 풀고 인증**하는 스터디   
 [Contributing Rules](./CONTRIBUTING.md)
 
-## Members
+## 1.1. Members
 
 [yarncha 🐽](https://github.com/yarncha)<br/>
 [moregorenine 👽](https://github.com/moregorenine)<br/>
@@ -17,7 +17,7 @@
 [DevKTak 🏋🏽‍♂️](https://github.com/devktak)<br/>
 [pkpete 😀](https://github.com/pkpete)<br/>
 
-## 인프런 일지 목록
+## 1.2. 인프런 일지 목록
 
 1. [[알고주오] [210619] 알고리즘 주 5회 이상 풀고 인증하는 스터디 오늘의 일지!](https://www.inflearn.com/blogs/576)
 2. [[알고주오] [210620] 알고리즘 주 5회 이상 풀고 인증하는 스터디 오늘의 일지!](https://www.inflearn.com/blogs/603)
@@ -25,7 +25,7 @@
 4. [[알고주오] [210626] 알고리즘 주 5회 이상 풀고 인증하는 스터디 1주차 일지!](https://www.inflearn.com/blogs/674)
 5. [[알고주오] [210706] 알고리즘 주 5회 이상 풀고 인증하는 스터디 2주차 일지!](https://www.inflearn.com/blogs/771)
 
-## Solutions
+## 1.3. Solutions
 
 <details open>
 <summary>Baekjoon</summary>
@@ -111,6 +111,7 @@
 |[146. LRU Cache](https://leetcode.com/problems/lru-cache/)|[Java🐧](./week02-210627-210703/kwonyongju/146.%20LRU%20Cache/Solution.java)|
 |[207. Course Schedule](https://leetcode.com/problems/course-schedule/)|[Java🐧](./week02-210627-210703/kwonyongju/207.%20Course%20Schedule/Solution.java)|
 |[395. Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)|[Java🐧](./week02-210627-210703/kwonyongju/395.%20Longest%20Substring%20with%20At%20Least%20K%20Repeating%20Characters/Solution.java)|
+|[402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/)|[Java🐧](./week03-210704-210710/kwonyongju/leetcode/402.%20Remove%20K%20Digits/Solution.java)|
 |[509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[C++🐽](./week02-210627-210703/yarncha/leetcode/509.cpp)|
 |[792. Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/)|[Java🐧](./week01-210619-210625/kwonyongju/792.%20Number%20of%20Matchig%20Subsequences/solution.java)|
 |[844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[C++🐽](./week01-210619-210625/yarncha/leetcode/844.cpp)|
