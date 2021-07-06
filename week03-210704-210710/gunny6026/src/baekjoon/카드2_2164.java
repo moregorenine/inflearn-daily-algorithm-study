@@ -17,4 +17,5 @@ public class 카드2_2164 {
         }
         System.out.println(queue.poll());
     }
+
 }
