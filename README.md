@@ -98,6 +98,7 @@
 
 |Problem|Solution|
 |------|---|
+|[1. Two Sum](https://leetcode.com/problems/two-sum/)|[C++🐽](./week03-210704-210710/yarncha/leetcode/1.cpp)|
 |[16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[Java🐧](./week02-210627-210703/kwonyongju/16.%203Sum%20Closest/solution.java)|
 |[17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[Java🐧](./week02-210627-210703/kwonyongju/17.%20Letter%20Combinations%20of%20a%20Phone%20Number/Solution.java)|
 |[46. Permutations](https://leetcode.com/problems/permutations/)|[Java🐧](./week01-210619-210625/kwonyongju/46.%20Permutations/solution.java)|
