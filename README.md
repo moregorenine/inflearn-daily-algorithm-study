@@ -42,7 +42,7 @@
 |[1707. 이분 그래프](https://www.acmicpc.net/problem/1707)|[C++🐽](./week01-210619-210625/yarncha/baekjoon/1707.cpp)|
 |[1744. 수 묶기](https://www.acmicpc.net/problem/1744)|[Python🐳](./week02-210627-210703/hyelimchoi1223/%5B%EB%B0%B1%EC%A4%80%5D1744/solved.py)|
 |[1929. 소수 구하기](https://www.acmicpc.net/problem/1929)|[Java😎](./week02-210627-210703/gunny6026/baekjoon/%EC%86%8C%EC%88%98%EA%B5%AC%ED%95%98%EA%B8%B0_1929.java)|
-|[1991. 트리 순회](https://www.acmicpc.net/problem/1991)|[Java😎](./week02-210627-210703/gunny6026/baekjoon/트리순회_1991.java)|
+|[1991. 트리 순회](https://www.acmicpc.net/problem/1991)|[Java😎](./week02-210627-210703/gunny6026/baekjoon/트리순회_1991.java), [C++🐽](./week03-210704-210710/yarncha/baekjoon/1991.cpp)|
 |[2146. 다리 만들기](https://www.acmicpc.net/problem/2146)|[C++🐽](./week02-210627-210703/yarncha/baekjoon/2146.cpp)|
 |[2164. 카드2](https://www.acmicpc.net/problem/2164)|[Java😎](./week03-210704-210710/gunny6026/src/baekjoon/카드2_2164.java)|
 |[2588. 곱셈](https://www.acmicpc.net/problem/2588)|[Java🏋🏽‍♂️](./week01-210619-210625/kyungtak/%5B%EB%B0%B1%EC%A4%80%5D%20%EB%8B%A8%EA%B3%84%EB%B3%84%EB%A1%9C%20%ED%92%80%EC%96%B4%EB%B3%B4%EA%B8%B0/Level%201/bj_02588.java)|
@@ -105,6 +105,7 @@
 
 |Problem|Solution|
 |------|---|
+|[1. Two Sum](https://leetcode.com/problems/two-sum/)|[C++🐽](./week03-210704-210710/yarncha/leetcode/1.cpp)|
 |[16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[Java🐧](./week02-210627-210703/kwonyongju/16.%203Sum%20Closest/solution.java)|
 |[17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[Java🐧](./week02-210627-210703/kwonyongju/17.%20Letter%20Combinations%20of%20a%20Phone%20Number/Solution.java)|
 |[46. Permutations](https://leetcode.com/problems/permutations/)|[Java🐧](./week01-210619-210625/kwonyongju/46.%20Permutations/solution.java)|
