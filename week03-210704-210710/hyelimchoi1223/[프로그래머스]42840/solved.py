@@ -26,9 +26,3 @@ def solution(answers):
     answer = [i + 1 for i, value in enumerate(scores) if value == max_value]
 
     return answer
-
-
-src = [[1, 2, 3, 4, 5, 1, 2, 3, 4, 5, 1, 2,
-        3, 4, 5, 1, 2, 3, 4, 5], [1, 3, 2, 4, 2]]
-for i in src:
-    print(solution(i))
