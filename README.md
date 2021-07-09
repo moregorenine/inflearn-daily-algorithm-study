@@ -116,6 +116,7 @@
 |[131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|[Java🐧](./week01-210619-210625/kwonyongju/131.%20Palindrome%20Partitioning/solution.java)|
 |[146. LRU Cache](https://leetcode.com/problems/lru-cache/)|[Java🐧](./week02-210627-210703/kwonyongju/146.%20LRU%20Cache/Solution.java)|
 |[207. Course Schedule](https://leetcode.com/problems/course-schedule/)|[Java🐧](./week02-210627-210703/kwonyongju/207.%20Course%20Schedule/Solution.java)|
+|[300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[Java🐧](./week03-210704-210710/kwonyongju/leetcode/300.%20Longest%20Increasing%20Subsequence/Solution.java)|
 |[378. Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|[Java🐧](./week03-210704-210710/kwonyongju/leetcode/378.%20Kth%20Smallest%20Element%20in%20a%20Sortred%20Matrix/Solution.java)|
 |[395. Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)|[Java🐧](./week02-210627-210703/kwonyongju/395.%20Longest%20Substring%20with%20At%20Least%20K%20Repeating%20Characters/Solution.java)|
 |[402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/)|[Java🐧](./week03-210704-210710/kwonyongju/leetcode/402.%20Remove%20K%20Digits/Solution.java)|
