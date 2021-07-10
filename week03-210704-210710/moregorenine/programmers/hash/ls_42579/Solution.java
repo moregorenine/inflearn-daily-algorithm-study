@@ -3,9 +3,12 @@ package programmers.hash.ls_42579;
 import org.junit.Assert;
 import org.junit.Test;
 
+import java.util.ArrayList;
+import java.util.Comparator;
 import java.util.HashMap;
-import java.util.SortedSet;
-import java.util.TreeSet;
+import java.util.LinkedHashMap;
+import java.util.List;
+import java.util.Map;
 
 public class Solution {
     @Test
@@ -18,24 +21,29 @@ public class Solution {
     public int[] solution(String[] genres, int[] plays) {
         int[] answer = {};
 
-        HashMap<String, Integer> hmGenres = new HashMap<>();
-
-        for (int i = 0; i < genres.length; i++) {
-            hmGenres.put(genres[i], hmGenres.getOrDefault(genres[i], 0) + plays[i]);
-        }
-
-        SortedSet<Integer> values = new TreeSet<>(hmGenres.values()).descendingSet();
-        for (Integer value : values) {
-            // Sort by Value
-        }
-
-        System.out.println(5);
-
-//        for (int value : hm.values()) {
-//            answer = answer * (value + 1);
-//        }
+        HashMap<String, Integer> factorySumPlaysByGenres = factorySumPlaysByGenres(genres, plays);
+        HashMap<String, Integer> sortedSumPlaysByGenres = sortByValue(factorySumPlaysByGenres);
+        
 
         return answer;
+    }
+
+    private HashMap<String, Integer> factorySumPlaysByGenres(String[] genres, int[] plays) {
+        HashMap<String, Integer> map = new HashMap<>();
+        for (int i = 0; i < genres.length; i++) {
+            map.put(genres[i], map.getOrDefault(genres[i], 0) + plays[i]);
+        }
+        return map;
+    }
+
+    private HashMap<String, Integer> sortByValue(HashMap<String, Integer> map) {
+        List<Map.Entry<String, Integer>> entries = new ArrayList<>(map.entrySet());
+        entries.sort(Comparator.comparing(Map.Entry<String, Integer>::getValue).reversed());
+        HashMap<String, Integer> sortedMap = new LinkedHashMap<>();
+        for (Map.Entry<String, Integer> entry : entries) {
+            sortedMap.put(entry.getKey(), entry.getValue());
+        }
+        return sortedMap;
     }
 
 }
