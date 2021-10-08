@@ -48,6 +48,7 @@
 |[2164. 카드2](https://www.acmicpc.net/problem/2164)|[Java😎](./week03-210704-210710/gunny6026/src/baekjoon/카드2_2164.java)|
 |[2250. 트리의 높이와 너비](https://www.acmicpc.net/problem/2250)|[C++🐽](./week03-210704-210710/yarncha/baekjoon/2250.cpp)|
 |[2562. 최댓값](https://www.acmicpc.net/problem/2562)|[Java👽](./moregorenine/baekjoon/step5_array/q2_2562/Main.java), [JavaScript👽](./moregorenine/baekjoon/step5_array/q2_2562/main.js), [Python👽](./moregorenine/baekjoon/step5_array/q2_2562/main.py)|
+|[2577. 숫자의 개수](https://www.acmicpc.net/problem/2577)|[Java👽](./moregorenine/baekjoon/step5_array/q3_2577/Main.java), [JavaScript👽](./moregorenine/baekjoon/step5_array/q3_2577/main.js), [Python👽](./moregorenine/baekjoon/step5_array/q3_2577/main.py)|
 |[2588. 곱셈](https://www.acmicpc.net/problem/2588)|[Java🏋🏽‍♂️](./week01-210619-210625/kyungtak/%5B%EB%B0%B1%EC%A4%80%5D%20%EB%8B%A8%EA%B3%84%EB%B3%84%EB%A1%9C%20%ED%92%80%EC%96%B4%EB%B3%B4%EA%B8%B0/Level%201/bj_02588.java)|
 |[2667. 단지번호붙이기](https://www.acmicpc.net/problem/2667)|[C++🐽](./week01-210619-210625/yarncha/baekjoon/2667.cpp), [C++😀](./week01-210619-210625/pkpete/2667.cpp)|
 |[2720. 세탁소 사장 동혁](https://www.acmicpc.net/problem/2720)|[Python🐳](./week01-210619-210625/hyelimchoi1223/%5B백준%5D2720/solved.py)|
