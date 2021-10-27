@@ -59,6 +59,7 @@
 |[2753. 윤년](https://www.acmicpc.net/problem/2753)|[Java👽](./week01-210619-210625/moregorenine/baekjoon/step2_if/q3_2753_leap_year/Main.java), [JavaScript👽](./week01-210619-210625/moregorenine/baekjoon/step2_if/q3_2753_leap_year/main.js), [Python👽](./week01-210619-210625/moregorenine/baekjoon/step2_if/q3_2753_leap_year/main.py)|
 |[2884. 알람 시계](https://www.acmicpc.net/problem/2884)|[Java👽](./week01-210619-210625/moregorenine/baekjoon/step2_if/q5_2884_alarm_clock/Main.java), [JavaScript👽](./week01-210619-210625/moregorenine/baekjoon/step2_if/q5_2884_alarm_clock/main.js), [Python👽](./week01-210619-210625/moregorenine/baekjoon/step2_if/q5_2884_alarm_clock/main.py)|
 |[2941. 크로아티아 알파벳](https://www.acmicpc.net/problem/2941)|[Java😎](./week01-210619-210625/gunny6026/src/baekjoon/크로아티아_알파벳_2941.java)|
+|[3052. 나머지](https://www.acmicpc.net/problem/3052)|[Java👽](./moregorenine/baekjoon/step5_array/q4_3052/Main.java), [JavaScript👽](./moregorenine/baekjoon/step5_array/q4_3052/main.js), [Python👽](./moregorenine/baekjoon/step5_array/q4_3052/main.py)|
 |[4948. 베르트랑 공준](https://www.acmicpc.net/problem/4948)|[Java😎](./week02-210627-210703/gunny6026/ps/baekjoon/베르트랑_공준_4948.java)|
 |[5585. 거스름돈](https://www.acmicpc.net/problem/5585)|[Python🐳](./week01-210619-210625/hyelimchoi1223/%5B%EB%B0%B1%EC%A4%80%5D5585/solved.py)|
 |[6064. 카잉 달력](https://www.acmicpc.net/problem/6064)|[C++🐽](./week03-210704-210710/yarncha/baekjoon/6064.cpp)|
